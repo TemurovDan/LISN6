@@ -1,0 +1,15 @@
+C:\Users\Lenovo\LISN6\bin\Debug\net6.0\LISN6.exe
+C:\Users\Lenovo\LISN6\bin\Debug\net6.0\LISN6.deps.json
+C:\Users\Lenovo\LISN6\bin\Debug\net6.0\LISN6.runtimeconfig.json
+C:\Users\Lenovo\LISN6\bin\Debug\net6.0\LISN6.dll
+C:\Users\Lenovo\LISN6\bin\Debug\net6.0\LISN6.pdb
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.AssemblyInfo.cs
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.dll
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\refint\LISN6.dll
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.pdb
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\LISN6.genruntimeconfig.cache
+C:\Users\Lenovo\LISN6\obj\Debug\net6.0\ref\LISN6.dll
